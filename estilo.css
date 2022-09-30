@@ -81,3 +81,18 @@ submit {
 
     
 }
+#button {
+    height: 30px;
+   background-color: #025951 ;
+   color:rgb(242, 188, 188);
+   border-radius: 30px;
+   font-size: medium;
+   box-shadow: 5px 7px  rgba(19, 19, 24, 0.533);
+   
+ 
+
+}
+#button:hover{
+    background-color: rgb(125, 112, 97);
+    transition: 0.7s;
+}
